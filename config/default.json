@@ -1,4 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://doty1977:doty1977@contactlogger.xe8re.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "satansmybro"
-}
